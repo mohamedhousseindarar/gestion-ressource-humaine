@@ -16,7 +16,6 @@ Le travail porte actuellement sur l’analyse et la spécification. Aucun logici
 - `Test/` : stratégie de vérification et de validation à détailler.
 - `Outils/` : choix d’outils à documenter.
 - `gestionProjet/` : planning, tâches et risques à préciser.
-- `PROGRESS.md` : résumé de l’avancement documentaire.
 
 ## Prochaines décisions
 
