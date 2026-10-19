@@ -6,8 +6,6 @@ La gestion des ressources humaines repose sur le suivi d’informations concerna
 
 Le projet consiste à concevoir un **Système d’Information des Ressources Humaines (SIRH)** qui centralise et organise les données et les processus RH retenus dans le périmètre proposé. Pour la première version de cet exemple, les fonctions envisagées comprennent la gestion des dossiers des employés, des services et des postes, des congés et des absences, des utilisateurs et de leurs permissions, ainsi que des tableaux de bord, des rapports simples et un historique des opérations importantes. Le système doit fournir un accès structuré selon les rôles, faciliter le suivi des opérations et contribuer à maintenir des informations cohérentes.
 
-Le Ministère de l’Énergie et des Ressources naturelles de Djibouti (MERN) sert uniquement de contexte d’illustration. Le Ministère n’est pas un client confirmé et les fonctions décrites ne sont pas présentées comme des besoins recueillis ou validés auprès de lui. Elles constituent des hypothèses de conception pour un cas d’étude.
-
 Le SIRH s’inscrit dans une démarche de numérisation et de structuration des activités RH. Dans le scénario proposé, il vise à soutenir le travail des responsables et agents RH, des responsables de service et de la direction, et à donner aux agents un accès limité aux informations ou démarches qui les concernent. Ces profils sont hypothétiques et leurs responsabilités détaillées restent définies par les documents de conception du projet.
 
 ## Besoin auquel répond le SIRH
