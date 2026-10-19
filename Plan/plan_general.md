@@ -54,11 +54,7 @@ L’avancement sera suivi à partir des livrables et des critères de validation
 
 Les risques seront suivis pendant tout le projet, notamment les besoins incomplets ou changeants, les retards de validation, les difficultés liées aux données RH et les choix techniques non confirmés. Des actions de réduction seront définies dans le plan de gestion des risques.
 
-## 7. Calendrier et ressources
-
-Les dates, durées, ressources et dépendances détaillées ne sont pas indiquées dans le dépôt. Elles seront établies dans un plan détaillé après clarification du périmètre, identification des participants et estimation de la charge des livrables. Le présent plan fixe l’ordre logique du travail, sans inventer de dates.
-
-## 8. Critères de réussite
+## 7. Critères de réussite
 
 La phase actuelle sera considérée comme réussie lorsque :
 
@@ -69,6 +65,3 @@ La phase actuelle sera considérée comme réussie lorsque :
 - les risques et les tâches de réalisation future seront identifiés ;
 - la documentation permettra à une équipe de préparer l’implémentation sans devoir deviner les décisions métier principales.
 
-## 9. Révision du plan
-
-Ce plan général sera mis à jour si le périmètre, les acteurs, les contraintes ou les décisions d’architecture changent. Le plan détaillé, la stratégie de test et le plan de gestion des risques préciseront les éléments opérationnels propres à chaque domaine.
